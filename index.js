@@ -64,7 +64,7 @@ app.use(
 app.use(express.json());
 
 app.get("/api/v1", (req, res) => {
-    res.send("<h2>My DevOps project $$$$</h2>");
+    res.send("<h2>My DevOps project</h2>");
     console.log("WASSUP!!")
 });
 
