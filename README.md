@@ -46,4 +46,29 @@ services:
       - MONGO_INITDB_ROOT_PASSWORD=${MONGO_INITDB_ROOT_PASSWORD}
 
 ```
+<figure style="text-align: center;">
+    <img src="images/GCP server.png" alt="Using GCP for production server">
+  <figcaption>Figure 1: Using GCP for production server</figcaption>
+  <br>
+</figure>
+
+## Sample
+<figure style="text-align: center;">
+  <img src="images/api test.png" alt="HTTP to the URL">
+  <figcaption>Figure 2: HTTP to the URL</figcaption>
+  <br>
+
+  <img src="images/signup function.png" alt="Signup function">
+  <figcaption>Figure 3: Signup function</figcaption>
+  <br>
+
+  <img src="images/login function.png" alt="Login function">
+  <figcaption>Figure 4: Login function</figcaption>
+  <br>
+
+  <img src="images/session with cookie.png" alt="Session with cookie">
+  <figcaption>Figure 5: Session with cookie</figcaption>
+  <br>
+</figure>
+
 
